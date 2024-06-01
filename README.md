@@ -41,26 +41,19 @@ I'm a Machine Learning Engineer / Data Scientist. I'm skilled in Applied Machine
 ![LaTeX](https://img.shields.io/badge/-LaTeX-blue)
 ![Plotly](https://img.shields.io/badge/-Plotly-green)
 
-### Databases & DevOps
-![MySQL](https://img.shields.io/badge/-MySQL-blue)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green)
-![Neo4j](https://img.shields.io/badge/-Neo4j-blue)
-![Docker](https://img.shields.io/badge/-Docker-blue)
-
 ### Version Control & Collaboration
 ![Git](https://img.shields.io/badge/-Git-orange)
-![GitLab](https://img.shields.io/badge/-GitLab-orange)
+![GitHub](https://img.shields.io/badge/-GitHub-orange)
 
 ### IDE & Development Tools
-![PyCharm](https://img.shields.io/badge/-PyCharm-black)
-![RStudio](https://img.shields.io/badge/-RStudio-blue)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue)
-![MATLAB](https://img.shields.io/badge/-MATLAB-blue)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-orange)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-blue)
+![Dev-C++](https://img.shields.io/badge/-Dev--C++-blue)
 
 ## GitHub Activeness
 
-![Haider Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mirfaisal72&show_icons=true&theme=radical)
+![Mir Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mirfaisal72&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirfaisal72&layout=compact&theme=radical)
 

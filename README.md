@@ -1,22 +1,23 @@
-# Hello there, I'm Haider. Welcome to my GitHub profile.
+# Hello there, I'm Faisal. Welcome to my GitHub profile.
 
 ## About Me
 
-I'm a Machine Learning Engineer / Data Scientist in New York City. I'm skilled in Applied Machine learning, Natural Language Processing (LLM), Computer Vision, Applied Mathematics, and Medical Imaging (Dicom).
+I'm a Machine Learning Engineer / Data Scientist. I'm skilled in Applied Machine Learning, Deep Learning, Mathematics, and Medical Imaging (Dicom).
 
-- 👨‍💻 I’m addicted to learning and growing every day.
-- 🦾 I want to collaborate with ML/DS communities and projects.
+- 👨‍💻 I’m interested in Machine Learning and Deep Learning.
+- 📊 I have a strong passion for Mathematics.
 - 🔥 I like to read and turn papers into code.
-- Passionate to apply my skills in healthcare and social good projects to positively impact the world.
-- 📧 Reach me at [Haideratlamwala786@gmail.com](mailto:Haideratlamwala786@gmail.com)
+- 🌟 I want to contribute to open-source projects and learn every day.
+- 💡 Passionate to apply my skills in healthcare and social good projects to positively impact the world.
+- 🛠️ Looking to collaborate with ML/DS communities and projects.
+
 
 ## Connect with me on
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/your-profile)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-yellow)](https://leetcode.com/u/Faisalleet_7/)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-blue)](https://www.kaggle.com/your-profile)
-[![YouTube](https://img.shields.io/badge/-YouTube-red)](https://www.youtube.com/your-channel)
-[![Medium](https://img.shields.io/badge/-Medium-black)](https://medium.com/@your-profile)
+[![Gmail](https://img.shields.io/badge/-Gmail-red)](mailto:mirfaisal447@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/mir_faisal72)
 
 ## My tech stack
 

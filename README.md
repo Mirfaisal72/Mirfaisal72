@@ -23,10 +23,9 @@ I'm a Machine Learning Engineer / Data Scientist. I'm skilled in Applied Machine
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![R](https://img.shields.io/badge/-R-blue)
 ![C](https://img.shields.io/badge/-C-blue)
 ![C++](https://img.shields.io/badge/-C++-blue)
+![JavaScript](https://img.shields.io/badge/-Java-yellow)
 
 ### Data & Machine Learning
 ![NumPy](https://img.shields.io/badge/-NumPy-blue)

@@ -2,14 +2,15 @@
 
 ## About Me
 
-I'm a Machine Learning Engineer / Data Scientist. I'm skilled in Applied Machine Learning, Deep Learning, Mathematics, and Medical Imaging (Dicom).
+## About Me
 
-- 👨‍💻 I’m interested in Machine Learning and Deep Learning.
-- 📊 I have a strong passion for Mathematics.
-- 🔥 I like to read and turn papers into code.
-- 🌟 I want to contribute to open-source projects and learn every day.
-- 💡 Passionate to apply my skills in healthcare and social good projects to positively impact the world.
-- 🛠️ Looking to collaborate with ML/DS communities and projects.
+I'm a second-year CSE student deeply interested in Machine Learning and Deep Learning. I'm eager to contribute to open-source and real-world projects.
+
+- 🌱 I'm addicted to learning every day and continuously growing my skills.
+- 🤝 I thrive on collaborating with diverse teams and contributing to impactful projects.
+- 🧠 I have a strong passion for applying Mathematical concepts to solve real-world problems.
+- 📝 I enjoy reading research papers and implementing them into practical applications.
+- 🌍 I'm committed to leveraging my skills for social good and innovative solutions.
 
 
 ## Connect with me on

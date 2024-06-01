@@ -14,9 +14,8 @@ I'm a Machine Learning Engineer / Data Scientist. I'm skilled in Applied Machine
 
 ## Connect with me on
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/faisal-mir-845647238)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-yellow)](https://leetcode.com/u/Faisalleet_7/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red)](mailto:mirfaisal447@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/mir_faisal72)
 
 ## My tech stack
@@ -25,7 +24,7 @@ I'm a Machine Learning Engineer / Data Scientist. I'm skilled in Applied Machine
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![C](https://img.shields.io/badge/-C-blue)
 ![C++](https://img.shields.io/badge/-C++-blue)
-![JavaScript](https://img.shields.io/badge/-Java-yellow)
+![Java](https://img.shields.io/badge/-Java-yellow)
 
 ### Data & Machine Learning
 ![NumPy](https://img.shields.io/badge/-NumPy-blue)

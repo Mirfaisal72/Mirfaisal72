@@ -26,20 +26,20 @@ I'm a Machine Learning Engineer / Data Scientist. I'm skilled in Applied Machine
 ![C++](https://img.shields.io/badge/-C++-blue)
 ![Java](https://img.shields.io/badge/-Java-yellow)
 
-### Data & Machine Learning
+### Technical Skills
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)
+![Keras](https://img.shields.io/badge/-Keras-red)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-blue)
+![Natural Language Processing](https://img.shields.io/badge/-NLP-blue)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-blue)
+![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-blue)
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-green)
 ![NumPy](https://img.shields.io/badge/-NumPy-blue)
 ![Pandas](https://img.shields.io/badge/-Pandas-purple)
-![PyTorch](https://img.shields.io/badge/-PyTorch-orange)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-blue)
-![MLflow](https://img.shields.io/badge/-MLflow-blue)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-orange)
-
-### Data Visualization & Documentation
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-blue)
-![LaTeX](https://img.shields.io/badge/-LaTeX-blue)
-![Plotly](https://img.shields.io/badge/-Plotly-green)
+![Data Structures and Algorithms (DSA)](https://img.shields.io/badge/-DSA-blue)
+![Flask](https://img.shields.io/badge/-Flask-black)
 
 ### Version Control & Collaboration
 ![Git](https://img.shields.io/badge/-Git-orange)

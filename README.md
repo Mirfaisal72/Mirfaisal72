@@ -2,8 +2,6 @@
 
 ## About Me
 
-## About Me
-
 I'm a second-year CSE student deeply interested in Machine Learning and Deep Learning. I'm eager to contribute to open-source and real-world projects.
 
 - 🌱 I'm addicted to learning every day and continuously growing my skills.

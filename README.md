@@ -13,7 +13,7 @@ I'm a Machine Learning Engineer / Data Scientist in New York City. I'm skilled i
 ## Connect with me on
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/your-profile)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-yellow)]((https://leetcode.com/u/Faisalleet_7/))
+[![LeetCode](https://img.shields.io/badge/-LeetCode-yellow)](https://leetcode.com/u/Faisalleet_7/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue)](https://www.kaggle.com/your-profile)
 [![YouTube](https://img.shields.io/badge/-YouTube-red)](https://www.youtube.com/your-channel)
 [![Medium](https://img.shields.io/badge/-Medium-black)](https://medium.com/@your-profile)

@@ -17,7 +17,7 @@ I'm a second-year CSE student deeply interested in Machine Learning and Deep Lea
 [![LeetCode](https://img.shields.io/badge/-LeetCode-yellow)](https://leetcode.com/u/Faisalleet_7/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/mir_faisal72)
 
-## My tech stack
+## My Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-blue)
